@@ -1,14 +1,15 @@
-task: Hinglish to English translation
-model: T5-small
+Task: Hinglish to English translation
 
-![](./Screenshot 2024-12-13 020108.png)
+Model: T5-small transformer
+
+![s](./plots.png)
 
 Datasets combined:
-Hinglish TOP Dataset
-CMU English Dog
-HinGE
-PHINC
+Hinglish TOP Dataset,
+CMU English Dog,
+HinGE,
+PHINC,
 
 Total 180k training examples
 
-evaluated using BLEU score
+Evaluated using BLEU score
